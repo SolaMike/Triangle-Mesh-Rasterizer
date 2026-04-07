@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2189,5): warning MSB9008: The referenced project C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\ZERO_CHECK.vcxproj does not exist.
+  Building Custom Rule C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeLists.txt
+  CMake is re-running because C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeFiles/generate.stamp dependency file is missing.
+CUSTOMBUILD : CMake error : The source directory "C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\CMakeLists.txt' exited with code 1.
