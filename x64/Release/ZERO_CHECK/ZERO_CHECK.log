@@ -1,0 +1,6 @@
+﻿  1>Checking Build System
+CUSTOMBUILD : CMake error : The source directory "C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+  CMake is re-running because C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeFiles/generate.stamp dependency file is missing.
+  The system cannot find the batch label specified - VCEnd
+C:\Program Files\Microsoft Visual Studio\18\Enterprise\MSBuild\Microsoft\VC\v180\Microsoft.CppCommon.targets(237,5): error MSB8066: Custom build for 'C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\CMakeFiles\3f7ad2bc1a44d315e2cc60b10f79bfaf\generate.stamp.rule' exited with code 1.
