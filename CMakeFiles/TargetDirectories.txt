@@ -1,3 +1,0 @@
-C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeFiles/A1.dir
-C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeFiles/ALL_BUILD.dir
-C:/Users/Mikey/OneDrive/Desktop/CSCE 441 A1/CMakeFiles/ZERO_CHECK.dir
