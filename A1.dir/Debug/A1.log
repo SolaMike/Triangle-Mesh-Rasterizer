@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\src\main.cpp(81,34): warning C4834: discarding return value of function with [[nodiscard]] attribute
-C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\src\main.cpp(111,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\src\main.cpp(144,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\src\main.cpp(167,1): error C2471: cannot update program database 'C:\Users\Mikey\OneDrive\Desktop\CSCE 441 A1\A1.dir\Debug\vc145.pdb'
